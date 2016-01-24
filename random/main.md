@@ -22,3 +22,4 @@
 + [The 37 Best Websites To Learn Something New](https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895e2cb0cad4#.a3d016vcf)
 + [Becoming a Butterfly: How To Develop Good Entrepreneurial Skills](https://medium.com/life-learning/becoming-a-butterfly-how-to-develop-good-entrepreneurial-skills-b0fea57c4fc5#.htnljkf03)
 + [Frankly Speaking: How I Found Purpose](https://medium.com/frankly-speaking/frankly-speaking-how-i-found-purpose-38fe929e70bb#.uslbf0txg)
++ [Work on Stuff that Matters: First Principles](https://medium.com/the-wtf-economy/work-on-stuff-that-matters-first-principles-335646af32b9#.v6zbcoz5p)
