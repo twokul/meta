@@ -19,3 +19,4 @@
 + [7 things I did to reboot my life.](https://medium.com/@wilw/7-things-i-did-to-reboot-my-life-a4bab2d409e#.z84jg3idt)
 + [How to Build Strong Relationships in a Remote Team](https://zapier.com/learn/the-ultimate-guide-to-remote-working/remote-team-communication/)
 + [The Book I Always Recommend to First-Time Managers](https://medium.com/keep-learning-keep-growing/the-book-i-always-recommend-to-first-time-managers-1a96d8e6314#.iovi9hdep)
++ [The 37 Best Websites To Learn Something New](https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895e2cb0cad4#.a3d016vcf)
