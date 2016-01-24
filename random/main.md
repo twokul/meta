@@ -23,3 +23,4 @@
 + [Becoming a Butterfly: How To Develop Good Entrepreneurial Skills](https://medium.com/life-learning/becoming-a-butterfly-how-to-develop-good-entrepreneurial-skills-b0fea57c4fc5#.htnljkf03)
 + [Frankly Speaking: How I Found Purpose](https://medium.com/frankly-speaking/frankly-speaking-how-i-found-purpose-38fe929e70bb#.uslbf0txg)
 + [Work on Stuff that Matters: First Principles](https://medium.com/the-wtf-economy/work-on-stuff-that-matters-first-principles-335646af32b9#.v6zbcoz5p)
++ [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
