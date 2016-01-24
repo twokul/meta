@@ -20,3 +20,4 @@
 + [How to Build Strong Relationships in a Remote Team](https://zapier.com/learn/the-ultimate-guide-to-remote-working/remote-team-communication/)
 + [The Book I Always Recommend to First-Time Managers](https://medium.com/keep-learning-keep-growing/the-book-i-always-recommend-to-first-time-managers-1a96d8e6314#.iovi9hdep)
 + [The 37 Best Websites To Learn Something New](https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895e2cb0cad4#.a3d016vcf)
++ [Becoming a Butterfly: How To Develop Good Entrepreneurial Skills](https://medium.com/life-learning/becoming-a-butterfly-how-to-develop-good-entrepreneurial-skills-b0fea57c4fc5#.htnljkf03)
