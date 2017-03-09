@@ -25,3 +25,5 @@
 + [Work on Stuff that Matters: First Principles](https://medium.com/the-wtf-economy/work-on-stuff-that-matters-first-principles-335646af32b9#.v6zbcoz5p)
 + [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 + [Rad Reads — Leadership and Management](https://medium.com/@khemaridh/management-rad-reads-fbc0eb3e2f84#.8qeo9eag7)
++ [Unintuitive Things I’ve Learned about Management (Part 1)](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.651ez7up1)
++ [Unintuitive Things I’ve Learned about Management (Part 2)](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-part-2-7c22fc9d87ed#.ic0hrh1vj)
